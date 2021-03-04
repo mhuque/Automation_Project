@@ -1,5 +1,5 @@
 package com.nyc.inheritance;
 
-public class GitHubTestDemo {
+public class MirClass2 {
 
 }
